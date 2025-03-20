@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Default values
-BASENAME="$1"
-COUNT="$2"
-CONTENT="$3"
+# BASENAME="$1"
+COUNT="$1"
+# CONTENT="$3"
 
 # Fallback to defaults if not provided
 BASENAME="${BASENAME:-file-to-change}"
